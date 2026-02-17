@@ -1,0 +1,6 @@
+body { background: #0a0a0a; color: #f8f9fa; font-family: sans-serif; }
+.film-kartica { transition: transform 0.3s; cursor: pointer; border-radius: 12px; overflow: hidden; }
+.film-kartica:hover { transform: translateY(-10px); }
+.film-kartica img { height: 350px; object-fit: cover; }
+.modal-content { border-radius: 15px; background: #111; }
+.btn-danger { background: #e50914; border: none; }
